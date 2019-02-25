@@ -1,0 +1,106 @@
+{
+  "uid" : "dfde6089c77dfc63",
+  "name" : "test_pinyin.test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]",
+  "fullName" : "xpinyin.test_pinyin.test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]",
+  "historyId" : "50dd1665a19227c805850ca2fccd4353",
+  "time" : {
+    "start" : 1550809555470,
+    "stop" : 1550809555514,
+    "duration" : 44
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'shenzhen' == 'shen1zhen'\n  - shenzhen\n  + shen1zhen\n  ?     +",
+  "statusTrace" : "chars = 'shenzhen', tone_marks = 'numbers', convert = 'capitalize'\nvalue = 'shen1zhen'\n\n    @allure.feature('test_get_pinyin')\n    @allure.story('test_chars_marks_convert')\n    @pytest.mark.parametrize(\"chars,tone_marks,convert,value\",[\n        (\"深圳\",None,'lower','shen-zhen'),\n        (\"深圳\",'marks','upper','SHĒN-ZHÈN'),\n        (\"深圳\",'numbers','capitalize','Shen1-Zhen4'),\n        (\"shenzhen\",'numbers','capitalize','shen1zhen'),\n        (\"深zhen\",'numbers','capitalize','Shen1-zhen')\n    ])\n    def test_get_pinyin(chars,tone_marks,convert,value):\n        with allure.step('修改marks参数'):\n            result = Pinyin().get_pinyin(chars=chars,tone_marks=tone_marks,convert=convert)\n            path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__),\"..\")),\"img/timg.jpg\")\n            file = open(path,'rb').read()\n            allure.attach('test_img',file,allure.attach_type.JPG)\n>           assert result == value\nE           AssertionError: assert 'shenzhen' == 'shen1zhen'\nE             - shenzhen\nE             + shen1zhen\nE             ?     +\n\nsrc\\xpinyin\\test_pinyin.py:32: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 'shenzhen' == 'shen1zhen'\n  - shenzhen\n  + shen1zhen\n  ?     +",
+    "statusTrace" : "chars = 'shenzhen', tone_marks = 'numbers', convert = 'capitalize'\nvalue = 'shen1zhen'\n\n    @allure.feature('test_get_pinyin')\n    @allure.story('test_chars_marks_convert')\n    @pytest.mark.parametrize(\"chars,tone_marks,convert,value\",[\n        (\"深圳\",None,'lower','shen-zhen'),\n        (\"深圳\",'marks','upper','SHĒN-ZHÈN'),\n        (\"深圳\",'numbers','capitalize','Shen1-Zhen4'),\n        (\"shenzhen\",'numbers','capitalize','shen1zhen'),\n        (\"深zhen\",'numbers','capitalize','Shen1-zhen')\n    ])\n    def test_get_pinyin(chars,tone_marks,convert,value):\n        with allure.step('修改marks参数'):\n            result = Pinyin().get_pinyin(chars=chars,tone_marks=tone_marks,convert=convert)\n            path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__),\"..\")),\"img/timg.jpg\")\n            file = open(path,'rb').read()\n            allure.attach('test_img',file,allure.attach_type.JPG)\n>           assert result == value\nE           AssertionError: assert 'shenzhen' == 'shen1zhen'\nE             - shenzhen\nE             + shen1zhen\nE             ?     +\n\nsrc\\xpinyin\\test_pinyin.py:32: AssertionError",
+    "steps" : [ {
+      "name" : "修改marks参数",
+      "time" : {
+        "start" : 1550809555471,
+        "stop" : 1550809555486,
+        "duration" : 15
+      },
+      "status" : "failed",
+      "statusMessage" : "chars = 'shenzhen', tone_marks = 'numbers', convert = 'capitalize'\nvalue = 'shen1zhen'\n\n    @allure.feature('test_get_pinyin')\n    @allure.story('test_chars_marks_convert')\n    @pytest.mark.parametrize(\"chars,tone_marks,convert,value\",[\n        (\"深圳\",None,'lower','shen-zhen'),\n        (\"深圳\",'marks','upper','SHĒN-ZHÈN'),\n        (\"深圳\",'numbers','capitalize','Shen1-Zhen4'),\n        (\"shenzhen\",'numbers','capitalize','shen1zhen'),\n        (\"深zhen\",'numbers','capitalize','Shen1-zhen')\n    ])\n    def test_get_pinyin(chars,tone_marks,convert,value):\n        with allure.step('修改marks参数'):\n            result = Pinyin().get_pinyin(chars=chars,tone_marks=tone_marks,convert=convert)\n            path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__),\"..\")),\"img/timg.jpg\")\n            file = open(path,'rb').read()\n            allure.attach('test_img',file,allure.attach_type.JPG)\n>           assert result == value\nE           AssertionError: assert 'shenzhen' == 'shen1zhen'\nE             - shenzhen\nE             + shen1zhen\nE             ?     +\n\nsrc\\xpinyin\\test_pinyin.py:32: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1e0d0e64f1195142",
+        "name" : "test_img",
+        "source" : "1e0d0e64f1195142.jpg",
+        "type" : "image/jpg",
+        "size" : 103114
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_get_pinyin"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PV-X00224597"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "test_chars_marks_convert"
+  }, {
+    "name" : "thread",
+    "value" : "14156-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testClass",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_pinyin.test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]"
+  }, {
+    "name" : "package",
+    "value" : "xpinyin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dfde6089c77dfc63.json",
+  "parameterValues" : [ ]
+}

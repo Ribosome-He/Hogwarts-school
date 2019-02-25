@@ -1,0 +1,63 @@
+{
+  "uid" : "93d16af235522783",
+  "name" : "test_pinyin.test_get_initials[\\u82b3\\u82b3-F-F]",
+  "fullName" : "xpinyin.test_pinyin.test_get_initials[\\u82b3\\u82b3-F-F]",
+  "historyId" : "d55b101c02b43bc4d7a678f418baba4d",
+  "time" : {
+    "start" : 1550809555603,
+    "stop" : 1550809555619,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_get_initial"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PV-X00224597"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14156-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testClass",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_pinyin.test_get_initials[\\u82b3\\u82b3-F-F]"
+  }, {
+    "name" : "package",
+    "value" : "xpinyin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93d16af235522783.json",
+  "parameterValues" : [ ]
+}

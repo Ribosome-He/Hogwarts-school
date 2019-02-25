@@ -1,0 +1,97 @@
+{
+  "uid" : "65fd687c63d32fe8",
+  "name" : "test_pinyin.test_get_pinyin[\\u6df1\\u5733-numbers-capitalize-Shen1-Zhen4]",
+  "fullName" : "xpinyin.test_pinyin.test_get_pinyin[\\u6df1\\u5733-numbers-capitalize-Shen1-Zhen4]",
+  "historyId" : "a97c6155146e193cfcb23990fa1582df",
+  "time" : {
+    "start" : 1550809555450,
+    "stop" : 1550809555466,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "修改marks参数",
+      "time" : {
+        "start" : 1550809555452,
+        "stop" : 1550809555466,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e733a857a04a11ac",
+        "name" : "test_img",
+        "source" : "e733a857a04a11ac.jpg",
+        "type" : "image/jpg",
+        "size" : 103114
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_get_pinyin"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PV-X00224597"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "test_chars_marks_convert"
+  }, {
+    "name" : "thread",
+    "value" : "14156-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testClass",
+    "value" : "xpinyin"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_pinyin.test_get_pinyin[\\u6df1\\u5733-numbers-capitalize-Shen1-Zhen4]"
+  }, {
+    "name" : "package",
+    "value" : "xpinyin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65fd687c63d32fe8.json",
+  "parameterValues" : [ ]
+}

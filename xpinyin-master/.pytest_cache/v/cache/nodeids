@@ -1,0 +1,7 @@
+[
+  "src/xpinyin/test_pinyin.py::test_get_pinyin[\\u6df1\\u5733-None-lower-shen-zhen]",
+  "src/xpinyin/test_pinyin.py::test_get_pinyin[\\u6df1\\u5733-marks-upper-SH\\u0112N-ZH\\xc8N]",
+  "src/xpinyin/test_pinyin.py::test_get_pinyin[\\u6df1\\u5733-numbers-capitalize-Shen1-Zhen4]",
+  "src/xpinyin/test_pinyin.py::test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]",
+  "src/xpinyin/test_pinyin.py::test_get_pinyin[\\u6df1zhen-numbers-capitalize-Shen1-zhen]"
+]

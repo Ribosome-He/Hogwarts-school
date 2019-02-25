@@ -16,8 +16,8 @@ def add(x,y):
         (3,6),
     ]
 )
-# def test_paraadd(x,y):
-#     assert add(x,y)==x+y+1
+def test_paraadd(x,y):
+    assert add(x,y)==x+y+1
 
 
 

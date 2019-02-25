@@ -1,0 +1,131 @@
+[ {
+  "uid" : "8532de2aad292010",
+  "name" : "test_pinyin.test_get_initial[\\u82b3-F]",
+  "time" : {
+    "start" : 1550809555570,
+    "stop" : 1550809555586,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93d16af235522783",
+  "name" : "test_pinyin.test_get_initials[\\u82b3\\u82b3-F-F]",
+  "time" : {
+    "start" : 1550809555603,
+    "stop" : 1550809555619,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfde6089c77dfc63",
+  "name" : "test_pinyin.test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]",
+  "time" : {
+    "start" : 1550809555470,
+    "stop" : 1550809555514,
+    "duration" : 44
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc433e8ef957746d",
+  "name" : "test_pinyin.test_get_pinyin[\\u6df1\\u5733-marks-upper-SH\\u0112N-ZH\\xc8N]",
+  "time" : {
+    "start" : 1550809555430,
+    "stop" : 1550809555447,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fb04234256c86c4",
+  "name" : "test_pinyin.test_get_initials[\\u82b3F-F-F]",
+  "time" : {
+    "start" : 1550809555636,
+    "stop" : 1550809555651,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d14d379e941d8846",
+  "name" : "test_pinyin.test_get_initial[F-F]",
+  "time" : {
+    "start" : 1550809555587,
+    "stop" : 1550809555602,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d745dc5ac037fab2",
+  "name" : "test_pinyin.test_get_pinyin[\\u6df1\\u5733-None-lower-shen-zhen]",
+  "time" : {
+    "start" : 1550809555410,
+    "stop" : 1550809555427,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65fd687c63d32fe8",
+  "name" : "test_pinyin.test_get_pinyin[\\u6df1\\u5733-numbers-capitalize-Shen1-Zhen4]",
+  "time" : {
+    "start" : 1550809555450,
+    "stop" : 1550809555466,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5796621824ba482f",
+  "name" : "test_pinyin.test_get_pinyin_defult",
+  "time" : {
+    "start" : 1550809555391,
+    "stop" : 1550809555409,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8be70ba184f9312b",
+  "name" : "test_pinyin.test_get_initials[F\\u82b3-F-F]",
+  "time" : {
+    "start" : 1550809555620,
+    "stop" : 1550809555635,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eee9530ce039a6e",
+  "name" : "test_pinyin.test_get_pinyin[\\u6df1zhen-numbers-capitalize-Shen1-zhen]",
+  "time" : {
+    "start" : 1550809555518,
+    "stop" : 1550809555534,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f13e156ff00697b",
+  "name" : "test_pinyin.test_get_pinyin_split[*-ni*hao]",
+  "time" : {
+    "start" : 1550809555554,
+    "stop" : 1550809555569,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21b8ffd4bda41e0e",
+  "name" : "test_pinyin.test_get_pinyin_split[+-ni+hao]",
+  "time" : {
+    "start" : 1550809555538,
+    "stop" : 1550809555553,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

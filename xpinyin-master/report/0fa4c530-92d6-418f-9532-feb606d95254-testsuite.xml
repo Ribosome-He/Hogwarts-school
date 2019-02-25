@@ -1,0 +1,267 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1550809555391" stop="1550809555651">
+  <name>xpinyin</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1550809555391" status="passed" stop="1550809555409">
+      <name>test_pinyin.test_get_pinyin_defult</name>
+      <attachments/>
+      <labels>
+        <label name="issue" value="www.baidu.com"/>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="test_defult"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555394" status="passed" stop="1550809555408">
+          <name>默认参数</name>
+          <title>默认参数</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555410" status="passed" stop="1550809555427">
+      <name>test_pinyin.test_get_pinyin[\u6df1\u5733-None-lower-shen-zhen]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_chars_marks_convert"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555411" status="passed" stop="1550809555426">
+          <name>修改marks参数</name>
+          <title>修改marks参数</title>
+          <attachments>
+            <attachment source="830d572d-3ff0-4085-81c9-d6981122d63c-attachment.jpg" title="test_img" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555430" status="passed" stop="1550809555447">
+      <name>test_pinyin.test_get_pinyin[\u6df1\u5733-marks-upper-SH\u0112N-ZH\xc8N]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_chars_marks_convert"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555431" status="passed" stop="1550809555446">
+          <name>修改marks参数</name>
+          <title>修改marks参数</title>
+          <attachments>
+            <attachment source="c037eb1f-39a1-46f9-9328-210422003154-attachment.jpg" title="test_img" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555450" status="passed" stop="1550809555466">
+      <name>test_pinyin.test_get_pinyin[\u6df1\u5733-numbers-capitalize-Shen1-Zhen4]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_chars_marks_convert"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555452" status="passed" stop="1550809555466">
+          <name>修改marks参数</name>
+          <title>修改marks参数</title>
+          <attachments>
+            <attachment source="12988112-3a79-4707-89d2-18fdd6ea32fa-attachment.jpg" title="test_img" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555470" status="failed" stop="1550809555514">
+      <name>test_pinyin.test_get_pinyin[shenzhen-numbers-capitalize-shen1zhen]</name>
+      <failure>
+        <message>AssertionError: assert 'shenzhen' == 'shen1zhen'
+  - shenzhen
+  + shen1zhen
+  ?     +</message>
+        <stack-trace>chars = 'shenzhen', tone_marks = 'numbers', convert = 'capitalize'
+value = 'shen1zhen'
+
+    @allure.feature('test_get_pinyin')
+    @allure.story('test_chars_marks_convert')
+    @pytest.mark.parametrize("chars,tone_marks,convert,value",[
+        ("深圳",None,'lower','shen-zhen'),
+        ("深圳",'marks','upper','SHĒN-ZHÈN'),
+        ("深圳",'numbers','capitalize','Shen1-Zhen4'),
+        ("shenzhen",'numbers','capitalize','shen1zhen'),
+        ("深zhen",'numbers','capitalize','Shen1-zhen')
+    ])
+    def test_get_pinyin(chars,tone_marks,convert,value):
+        with allure.step('修改marks参数'):
+            result = Pinyin().get_pinyin(chars=chars,tone_marks=tone_marks,convert=convert)
+            path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__),"..")),"img/timg.jpg")
+            file = open(path,'rb').read()
+            allure.attach('test_img',file,allure.attach_type.JPG)
+&gt;           assert result == value
+E           AssertionError: assert 'shenzhen' == 'shen1zhen'
+E             - shenzhen
+E             + shen1zhen
+E             ?     +
+
+src\xpinyin\test_pinyin.py:32: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_chars_marks_convert"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555471" status="failed" stop="1550809555486">
+          <name>修改marks参数</name>
+          <title>修改marks参数</title>
+          <attachments>
+            <attachment source="56cb1491-cbc5-483d-b871-eac356a08532-attachment.jpg" title="test_img" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555518" status="passed" stop="1550809555534">
+      <name>test_pinyin.test_get_pinyin[\u6df1zhen-numbers-capitalize-Shen1-zhen]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_chars_marks_convert"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1550809555519" status="passed" stop="1550809555534">
+          <name>修改marks参数</name>
+          <title>修改marks参数</title>
+          <attachments>
+            <attachment source="eb9cd091-9f81-4533-8816-1eb33ad97751-attachment.jpg" title="test_img" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1550809555538" status="passed" stop="1550809555553">
+      <name>test_pinyin.test_get_pinyin_split[+-ni+hao]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_split"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555554" status="passed" stop="1550809555569">
+      <name>test_pinyin.test_get_pinyin_split[*-ni*hao]</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="test_split"/>
+        <label name="feature" value="test_get_pinyin"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555570" status="passed" stop="1550809555586">
+      <name>test_pinyin.test_get_initial[\u82b3-F]</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_get_initial"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555587" status="passed" stop="1550809555602">
+      <name>test_pinyin.test_get_initial[F-F]</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_get_initial"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555603" status="passed" stop="1550809555619">
+      <name>test_pinyin.test_get_initials[\u82b3\u82b3-F-F]</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_get_initial"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555620" status="passed" stop="1550809555635">
+      <name>test_pinyin.test_get_initials[F\u82b3-F-F]</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_get_initial"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1550809555636" status="passed" stop="1550809555651">
+      <name>test_pinyin.test_get_initials[\u82b3F-F-F]</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="test_get_initial"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14156-MainThread"/>
+        <label name="host" value="PV-X00224597"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
