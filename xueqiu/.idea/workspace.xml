@@ -10,36 +10,65 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu2_Test_xueqiu_test_alibaba_exist.coverage" NAME="py.test for test_xueqiu2.Test_xueqiu.test_alibaba_exist Coverage Results" MODIFIED="1551690519172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_aaa_py.coverage" NAME="Unittests in aaa.py Coverage Results" MODIFIED="1550378106774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
-    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_Testadd_test_case2.coverage" NAME="Unittests for test.Testadd.test_case2 Coverage Results" MODIFIED="1550374197707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
-    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu_Test_xueqiu_test_pdd.coverage" NAME="py.test for test_xueqiu.Test_xueqiu.test_pdd Coverage Results" MODIFIED="1550841704940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_addCase_test_case1.coverage" NAME="Unittests for test.addCase.test_case1 Coverage Results" MODIFIED="1550376570987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
-    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_UnitTest_ACase_test_case1.coverage" NAME="Unittests for UnitTest.ACase.test_case1 Coverage Results" MODIFIED="1550377125636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_a_Case_test_case1.coverage" NAME="Unittests for test.a_Case.test_case1 Coverage Results" MODIFIED="1550376690423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_ACase_test_case2.coverage" NAME="Unittests for test.ACase.test_case2 Coverage Results" MODIFIED="1550377246972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_UnitTest_py.coverage" NAME="Unittests in UnitTest.py Coverage Results" MODIFIED="1550377171633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_TestCase_test_case1.coverage" NAME="Unittests for test.TestCase.test_case1 Coverage Results" MODIFIED="1550374629422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
-    <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1550375370506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1550037828933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_ACase_test_case1.coverage" NAME="Unittests for test.ACase.test_case1 Coverage Results" MODIFIED="1550377015895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu2_Test_xueqiu_test_add_us.coverage" NAME="py.test for test_xueqiu2.Test_xueqiu.test_add_us Coverage Results" MODIFIED="1551880924835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_aaa_test_add.coverage" NAME="py.test for test_aaa.test_add Coverage Results" MODIFIED="1550388112442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
-    <SUITE FILE_PATH="coverage/xueqiu$py_test_in_test_xueqiu_py.coverage" NAME="py.test in test_xueqiu.py Coverage Results" MODIFIED="1550844061514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu_Test_xueqiu_test_alibaba.coverage" NAME="py.test for test_xueqiu.Test_xueqiu.test_alibaba Coverage Results" MODIFIED="1550910294571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_LoginTest_py.coverage" NAME="Unittests in LoginTest.py Coverage Results" MODIFIED="1550376830524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_SearchTest_py.coverage" NAME="Unittests in SearchTest.py Coverage Results" MODIFIED="1550030499189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_LoginTest_LoginCase_test_loginfaile.coverage" NAME="Unittests for LoginTest.LoginCase.test_loginfaile Coverage Results" MODIFIED="1549173161518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_aaa_test_paraadd.coverage" NAME="py.test for test_aaa.test_paraadd Coverage Results" MODIFIED="1550579158419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
     <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_addCase_test_case2.coverage" NAME="Unittests for test.addCase.test_case2 Coverage Results" MODIFIED="1550375272002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_Testadd_test_case2.coverage" NAME="Unittests for test.Testadd.test_case2 Coverage Results" MODIFIED="1550374197707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu_Test_xueqiu_test_pdd.coverage" NAME="py.test for test_xueqiu.Test_xueqiu.test_pdd Coverage Results" MODIFIED="1550841704940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_UnitTest_ACase_test_case1.coverage" NAME="Unittests for UnitTest.ACase.test_case1 Coverage Results" MODIFIED="1550377125636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu2_Test_xueqiu_test_delete_us.coverage" NAME="py.test for test_xueqiu2.Test_xueqiu.test_delete_us Coverage Results" MODIFIED="1551882280356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu2_Test_xueqiu_test_alibaba_search.coverage" NAME="py.test for test_xueqiu2.Test_xueqiu.test_alibaba_search Coverage Results" MODIFIED="1551690462688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1550375370506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$Unittests_for_test_ACase_test_case1.coverage" NAME="Unittests for test.ACase.test_case1 Coverage Results" MODIFIED="1550377015895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_in_test_xueqiu_py.coverage" NAME="py.test in test_xueqiu.py Coverage Results" MODIFIED="1550844061514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/xueqiu$py_test_for_test_xueqiu2_Test_xueqiu_test_search_add.coverage" NAME="py.test for test_xueqiu2.Test_xueqiu.test_search_add Coverage Results" MODIFIED="1551687079958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="base_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/base_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="431">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_xueqiu2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cases/test_xueqiu2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="33" selection-end-line="136" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_aaa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/test_aaa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +77,8 @@
       <file leaf-file-name="startset.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/startset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="338">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="e#24#52#0" expanded="true" />
               </folding>
@@ -57,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_xueqiu.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="globalconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/globalconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_xueqiu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cases/test_xueqiu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="515">
+              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -69,41 +107,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webdriver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/search_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="87" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="87" />
+            <state relative-caret-position="494">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webelement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <file leaf-file-name="profile_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/profile_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cases/LoginTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -111,8 +128,8 @@
       <file leaf-file-name="SearchTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cases/SearchTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="372">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -120,20 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchdata.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/searchdata.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/main_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="275">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -157,7 +165,7 @@
       <find>xpath</find>
       <find>text</find>
       <find>perform</find>
-      <find />
+      <find>print &gt;&gt; sys.stderr</find>
       <find>latin-1</find>
       <find>back</find>
     </findStrings>
@@ -172,17 +180,18 @@
         <option value="$PROJECT_DIR$/data/searchdata.json" />
         <option value="$PROJECT_DIR$/data/globalconfig.json" />
         <option value="$PROJECT_DIR$/data/logindata.json" />
-        <option value="$PROJECT_DIR$/page/base_page.py" />
         <option value="$PROJECT_DIR$/test_suite.py" />
-        <option value="$PROJECT_DIR$/cases/SearchTest.py" />
         <option value="$PROJECT_DIR$/common/startset.py" />
         <option value="$PROJECT_DIR$/cases/LoginTest.py" />
         <option value="$PROJECT_DIR$/cases/test.py" />
         <option value="$PROJECT_DIR$/cases/aaa.py" />
         <option value="$PROJECT_DIR$/cases/test_aaa.py" />
         <option value="$PROJECT_DIR$/cases/UnitTest.py" />
-        <option value="$PROJECT_DIR$/page/search_page.py" />
         <option value="$PROJECT_DIR$/cases/test_xueqiu.py" />
+        <option value="$PROJECT_DIR$/cases/SearchTest.py" />
+        <option value="$PROJECT_DIR$/page/base_page.py" />
+        <option value="$PROJECT_DIR$/page/search_page.py" />
+        <option value="$PROJECT_DIR$/cases/test_xueqiu2.py" />
       </list>
     </option>
   </component>
@@ -206,7 +215,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +250,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,8 +277,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_xueqiu.Test_xueqiu.test_alibaba">
-    <configuration name="py.test for test_aaa.test_paraadd" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_delete_us">
+    <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="xueqiu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,10 +290,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_aaa.test_paraadd&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu2.Test_xueqiu.test_add_us&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_alibaba_exist" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="xueqiu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,10 +305,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.Test_xueqiu.test_alibaba&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu2.Test_xueqiu.test_alibaba_exist&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_xueqiu.Test_xueqiu.test_pdd" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_alibaba_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="xueqiu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,10 +320,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu.Test_xueqiu.test_pdd&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu2.Test_xueqiu.test_alibaba_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test in test_aaa.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_delete_us" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="xueqiu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,10 +335,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_aaa.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu2.Test_xueqiu.test_delete_us&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test in test_xueqiu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_search_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="xueqiu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,23 +350,23 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_xueqiu.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_xueqiu2.Test_xueqiu.test_search_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_aaa.test_paraadd" />
-      <item itemvalue="Python tests.py.test in test_aaa.py" />
-      <item itemvalue="Python tests.py.test in test_xueqiu.py" />
-      <item itemvalue="Python tests.py.test for test_xueqiu.Test_xueqiu.test_pdd" />
-      <item itemvalue="Python tests.py.test for test_xueqiu.Test_xueqiu.test_alibaba" />
+      <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_alibaba_search" />
+      <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_search_add" />
+      <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_alibaba_exist" />
+      <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_add_us" />
+      <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_delete_us" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_xueqiu.Test_xueqiu.test_alibaba" />
-        <item itemvalue="Python tests.py.test in test_xueqiu.py" />
-        <item itemvalue="Python tests.py.test for test_xueqiu.Test_xueqiu.test_pdd" />
-        <item itemvalue="Python tests.py.test for test_aaa.test_paraadd" />
-        <item itemvalue="Python tests.py.test in test_aaa.py" />
+        <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_delete_us" />
+        <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_add_us" />
+        <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_alibaba_exist" />
+        <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_alibaba_search" />
+        <item itemvalue="Python tests.py.test for test_xueqiu2.Test_xueqiu.test_search_add" />
       </list>
     </recent_temporary>
   </component>
@@ -375,55 +384,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 15h 09m 49s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 20h 51m 59s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 15h 41m 54s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 20h 57m 02s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 15h 50m 35s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 20h 58m 48s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 15h 52m 56s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 21h 00m 05s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 15h 59m 14s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 21h 01m 42s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 16h 00m 27s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.04 at 21h 06m 23s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 16h 01m 51s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.06 at 21h 50m 21s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 16h 21m 40s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_add_us - 2019.03.06 at 22h 03m 05s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_add_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 16h 23m 14s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_delete_us - 2019.03.06 at 22h 20m 40s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_delete_us" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_xueqiu_Test_xueqiu_test_alibaba - 2019.02.23 at 16h 46m 55s.xml">
-      <configuration name="py.test for test_xueqiu.Test_xueqiu.test_alibaba" configurationId="tests" />
+    <history-entry file="py_test_for_test_xueqiu2_Test_xueqiu_test_delete_us - 2019.03.06 at 22h 25m 18s.xml">
+      <configuration name="py.test for test_xueqiu2.Test_xueqiu.test_delete_us" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.18923241" side_tool="true" visible="true" weight="0.31263617" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.19029851" side_tool="true" visible="true" weight="0.31263617" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.8097015" visible="true" weight="0.31263617" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.8107676" visible="true" weight="0.31263617" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4968017" weight="0.33006537" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26918977" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.271855" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.4968017" weight="0.39869282" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49733475" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -445,37 +454,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11970">
-          <caret line="635" column="38" lean-forward="true" selection-start-line="635" selection-start-column="38" selection-end-line="635" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1959821792/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6441">
-          <caret line="339" column="41" lean-forward="true" selection-start-line="339" selection-start-column="41" selection-end-line="339" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/startset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#24#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cases/LoginTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,9 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,13 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/profile_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -708,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,57 +689,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cases/test_aaa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/globalconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/UnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/UnitTest.py" />
     <entry file="file://$PROJECT_DIR$/cases/LoginTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/main_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/startset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#24#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,10 +704,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14991">
+          <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SDK/tools/bin/uiautomatorviewer.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4579">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/test_xueqiu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/test_aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/profile_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/globalconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/startset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="e#24#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cases/SearchTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="372">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
@@ -796,39 +803,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/search_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="87" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="87" />
+        <state relative-caret-position="494">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/base_page.py">
+    <entry file="file://$PROJECT_DIR$/cases/test_xueqiu2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/py3test/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cases/test_xueqiu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="891">
+          <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="33" selection-end-line="136" selection-end-column="33" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>

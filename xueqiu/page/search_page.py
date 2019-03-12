@@ -20,4 +20,9 @@ class SearchPage(BasePage):
         return a
 
     def guanzhu(self):
-        return self.driver.find_elements_by_xpath("//*[contains(@resource-id, 'follow_btn')]")
+        self.find_xpath("//*[@resource-id='com.xueqiu.android:id/add_attention']").\
+            find_element_by_class_name("android.widget.TextView").click()
+
+    def zixuanguanzhu(self):
+        self.find_xpath("//*[@text='自选' and contains(@resource-id,'tab_name')]").click()
+        self.driver.find_element_by_id("action_create_cube").click()

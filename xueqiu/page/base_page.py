@@ -40,3 +40,19 @@ class BasePage(object):
                 print("unknow error" + e)
             return self.driver.find_element(by, value)
 
+    def find_xpath(self,value):
+        loclist = []
+        try:
+            for n in range(5):
+                time.sleep(1)
+                ele = self.driver.find_element_by_xpath(value)
+                loclist.append(ele.location)
+                if n>1:
+                    if loclist[n] == loclist[n-1]:
+                        return ele
+        except:
+            print("出现评价弹框")
+            self.driver.find_element_by_xpath("//*[@text='下次再说']").click()
+            print("点击下次再说")
+            return self.driver.find_element_by_xpath(value)
+
